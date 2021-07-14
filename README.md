@@ -6,3 +6,5 @@
 3.获取歌曲封面，播放时实现相应的动画
 4.在点击播放的同时，同步的显示这首歌的热门评论
 5.实现歌曲MV的播放
+# 播放界面预览
+![image](https://user-images.githubusercontent.com/86142882/125602088-5e087b13-c609-4adb-914b-bbacfcbc0d2b.png)
